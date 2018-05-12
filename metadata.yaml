@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31678
     wikipedia: http://www.encyclopedia.com/topic/Thomas_James_Wise.aspx
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25939#A-Bibliography-of-the-writings-in-Prose-and-Verse-of-George-Henry-Borrow
 gutenberg_issued: '2008-06-30'
 gutenberg_type: Text
 identifiers:
